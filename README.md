@@ -1,2 +1,4 @@
 # hello-world
-First githum repos
+Hello Guys,
+
+I am Arjun. This is hello world program to learn new things/technologies.
